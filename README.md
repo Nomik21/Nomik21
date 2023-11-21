@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Employment 
+- [Hellenic Military Geographical  Service (HMGS)](https://www.gys.gr/), Athens Greece
+- Geodatabases Subdivision (HMGS)
+
+## Projects
+- Request Metadata Satellite Esri Basemap
+- 🔭 Currently working on Segment Anything Model in imagery. 
 <!--
 **Nomik21/Nomik21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
