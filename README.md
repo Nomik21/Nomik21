@@ -7,8 +7,9 @@ Greetings! My name is Nomikos Nikolaos, a dedicated student at the National Tech
 
 My professional path intertwines seamlessly with my passion for technology and innovation. I am deeply enthusiastic about programming, particularly skilled in Python and Javascript. My interests extend to the dynamic realms of WebGIS, Remote Sensing, and Deep Learning, where I find joy in navigating the convergence of geospatial data and cutting-edge technology.
 
-### Education 
--   Undergraduate student at the [School of Surveying and Geoinformatics Engineering, National Technical University of Athens](https://www.survey.ntua.gr/el/) (2021- current)
+### Education
+-   M.Sc in Geoinformatics [National Technical University of Athens](https://geoinformatics.ntua.gr/) (2024 - current)
+-   M.Eng, B.Eng in Rural, Surveying and Geoinformatics Engineering at the [School of Surveying and Geoinformatics Engineering, National Technical University of Athens](https://www.survey.ntua.gr/el/) (2021- 2024)
 -  Engineer's degree | [School of Topography | HMGS](https://www.gys.gr/hmgs-sxtop.html) (2017-2019)
 -   Army Infantry School | Basic Officer Leader School | Hellenic Army (2014-2015)
 -  B.Sc. Military Applied Sciences | [Hellenic Military Academy](https://sse.army.gr/) | Hellenic Army (2010-2014)
